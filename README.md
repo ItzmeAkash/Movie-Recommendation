@@ -9,3 +9,9 @@
 Create a New Environment
 
 ```Python  -m venv env```
+
+# Modules installed
+
+1. Streamlit
+2. Git Lfs
+3. 
